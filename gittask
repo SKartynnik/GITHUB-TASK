@@ -8,3 +8,5 @@ echo "create new $dir"
 rmdir $dir
 echo "remove  $dir"
 
+echo "Have a nice day!"
+
