@@ -1,0 +1,10 @@
+#!/bin/bash
+
+dir="$HOME/task"
+mkdir $dir
+echo "create new $dir"
+
+
+rmdir $dir
+echo "remove  $dir"
+
